@@ -1,0 +1,6 @@
+Esse eh o segundo arquivo criado pelo git,
+<<<<<<< HEAD:segundo.txt.txt
+ok  aaa
+=======
+ok
+>>>>>>> 5b2648f9ebcec409ce35dfff057a7562a3576436:segundo.txt

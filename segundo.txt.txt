@@ -1,2 +1,0 @@
-Esse eh o segundo arquivo criado pelo git,
-ok  aaa
